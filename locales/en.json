@@ -1,0 +1,94 @@
+{
+  "tabs": {
+    "jobs": "Jobs",
+    "analytics": "Analytics",
+    "customers": "Customers",
+    "templates": "Templates"
+  },
+  "jobList": {
+    "createNewJob": "Create New Job",
+    "noJobs": "No jobs found. Create one!",
+    "searchPlaceholder": "Search by customer...",
+    "total": "Total"
+  },
+  "jobForm": {
+    "manageJob": "Manage Job",
+    "jobDetails": "Job Details",
+    "jobTitle": "Job Title (e.g., 'Kitchen Cabinets')",
+    "notes": "Notes",
+    "priceSettings": "Price Settings",
+    "pricePerDoor": "Price per Door (sq ft)",
+    "pricePerBeading": "Price per Beading (ft)",
+    "pricePerFrame": "Price per Frame (ft)",
+    "pricePerPaling": "Price per Paling (ft)",
+    "pricePerPolish": "Price per Polish (sq ft)",
+    "door": "Door",
+    "remove": "Remove",
+    "area": "Area (sq ft)",
+    "beading": "Beading (ft)",
+    "frame": "Frame (ft)",
+    "paling": "Paling (ft)",
+    "polish": "Polish (sq ft)",
+    "subtotal": "Subtotal",
+    "addAnotherDoor": "+ Add Another Door",
+    "grandTotal": "Grand Total",
+    "saveJob": "Save Job",
+    "exportPDF": "Export as PDF"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "monthlyRevenue": "Monthly Revenue",
+    "mostUsedMaterials": "Most Used Materials"
+  },
+  "customers": {
+    "title": "Customers",
+    "addNewCustomer": "Add New Customer",
+    "searchPlaceholder": "Search by name or phone...",
+    "noCustomers": "No customers found.",
+    "addCustomerModalTitle": "Add New Customer",
+    "fullName": "Full Name",
+    "phoneNumber": "Phone Number",
+    "address": "Address"
+  },
+  "templates": {
+    "title": "Templates",
+    "description": "Save frequently used price settings as templates to quickly apply them when creating new jobs.",
+    "createNewTemplate": "Create New Template",
+    "noTemplates": "No templates saved yet.",
+    "getStarted": "Click the button below to create your first one!",
+    "newTemplateModalTitle": "New Price Template",
+    "templateName": "Template Name (e.g., 'Premium Oak')"
+  },
+  "settings": {
+    "title": "Brand Settings",
+    "brandCustomization": "Brand Customization",
+    "brandName": "App Brand Name",
+    "brandNamePlaceholder": "e.g., ProWood Crafters",
+    "companyInfo": "Company Contact Info",
+    "companyInfoPlaceholder": "Your Name, Phone, Email...",
+    "companyLogo": "Company Logo",
+    "noLogo": "No Logo",
+    "changeLogo": "Change Logo",
+    "saveSettings": "Save Settings"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "error": "Error",
+    "success": "Success",
+    "ok": "OK",
+    "loading": "Loading..."
+  },
+  "alerts": {
+    "permissionDenied": "Permission Denied",
+    "permissionRequired": "Sorry, we need camera roll permissions to make this work!",
+    "settingsSaved": "Settings Saved",
+    "brandingUpdated": "Your branding has been updated.",
+    "validationError": "Validation Error",
+    "nameRequired": "Name cannot be empty.",
+    "jobTitleRequired": "Job Title is required.",
+    "jobSaved": "Job has been saved.",
+    "cannotRemoveDoor": "Cannot Remove",
+    "atLeastOneDoor": "You must have at least one door in a job."
+  }
+}

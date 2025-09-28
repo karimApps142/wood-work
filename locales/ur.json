@@ -1,0 +1,94 @@
+{
+  "tabs": {
+    "jobs": "کام",
+    "analytics": "تجزیات",
+    "customers": "گاہک",
+    "templates": "ٹیمپلیٹس"
+  },
+  "jobList": {
+    "createNewJob": "نیا کام بنائیں",
+    "noJobs": "کوئی کام نہیں ملا۔ ایک بنائیں!",
+    "searchPlaceholder": "گاہک کے نام سے تلاش کریں...",
+    "total": "کل"
+  },
+  "jobForm": {
+    "manageJob": "کام کا انتظام",
+    "jobDetails": "کام کی تفصیلات",
+    "jobTitle": "کام کا عنوان (مثال کے طور پر، 'کچن کیبینٹ')",
+    "notes": "نوٹس",
+    "priceSettings": "قیمت کی ترتیبات",
+    "pricePerDoor": "فی دروازہ قیمت (مربع فٹ)",
+    "pricePerBeading": "فی بیڈنگ قیمت (فٹ)",
+    "pricePerFrame": "فی فریم قیمت (فٹ)",
+    "pricePerPaling": "فی پالنگ قیمت (فٹ)",
+    "pricePerPolish": "فی پالش قیمت (مربع فٹ)",
+    "door": "دروازہ",
+    "remove": "ہٹائیں",
+    "area": "رقبہ (مربع فٹ)",
+    "beading": "بیڈنگ (فٹ)",
+    "frame": "فریم (فٹ)",
+    "paling": "پالنگ (فٹ)",
+    "polish": "پالش (مربع فٹ)",
+    "subtotal": "ذیلی کل",
+    "addAnotherDoor": "+ ایک اور دروازہ شامل کریں",
+    "grandTotal": "مجموعی کل",
+    "saveJob": "کام محفوظ کریں",
+    "exportPDF": "پی ڈی ایف کے طور پر برآمد کریں"
+  },
+  "analytics": {
+    "title": "تجزیات",
+    "monthlyRevenue": "ماہانہ آمدنی",
+    "mostUsedMaterials": "سب سے زیادہ استعمال ہونے والا مواد"
+  },
+  "customers": {
+    "title": "گاہک",
+    "addNewCustomer": "نیا گاہک شامل کریں",
+    "searchPlaceholder": "نام یا فون سے تلاش کریں...",
+    "noCustomers": "کوئی گاہک نہیں ملا۔",
+    "addCustomerModalTitle": "نیا گاہک شامل کریں",
+    "fullName": "پورا نام",
+    "phoneNumber": "فون نمبر",
+    "address": "پتہ"
+  },
+  "templates": {
+    "title": "ٹیمپلیٹس",
+    "description": "اکثر استعمال ہونے والی قیمتوں کی ترتیبات کو ٹیمپلیٹس کے طور پر محفوظ کریں تاکہ نئے کام بناتے وقت انہیں تیزی سے لاگو کیا جا سکے۔",
+    "createNewTemplate": "نیا ٹیمپلیٹ بنائیں",
+    "noTemplates": "ابھی تک کوئی ٹیمپلیٹ محفوظ نہیں ہوا۔",
+    "getStarted": "پہلا ٹیمپلیٹ بنانے کے لیے نیچے دیا گیا بٹن دبائیں!",
+    "newTemplateModalTitle": "نیا قیمت کا ٹیمپلیٹ",
+    "templateName": "ٹیمپلیٹ کا نام (مثلاً 'پریمیم اوک')"
+  },
+  "settings": {
+    "title": "برانڈ کی ترتیبات",
+    "brandCustomization": "برانڈ کی تخصیص",
+    "brandName": "ایپ برانڈ کا نام",
+    "brandNamePlaceholder": "مثلاً پرو ووڈ کرافٹرز",
+    "companyInfo": "کمپنی کی رابطہ معلومات",
+    "companyInfoPlaceholder": "آپ کا نام، فون، ای میل...",
+    "companyLogo": "کمپنی کا لوگو",
+    "noLogo": "کوئی لوگو نہیں",
+    "changeLogo": "لوگو تبدیل کریں",
+    "saveSettings": "ترتیبات محفوظ کریں"
+  },
+  "common": {
+    "save": "محفوظ کریں",
+    "cancel": "منسوخ کریں",
+    "error": "خرابی",
+    "success": "کامیابی",
+    "ok": "ٹھیک ہے",
+    "loading": "لوڈ ہو رہا ہے..."
+  },
+  "alerts": {
+    "permissionDenied": "اجازت مسترد کر دی گئی",
+    "permissionRequired": "معذرت، اس فیچر کے لیے ہمیں کیمرہ رول کی اجازت درکار ہے۔",
+    "settingsSaved": "ترتیبات محفوظ ہو گئیں",
+    "brandingUpdated": "آپ کی برانڈنگ اپ ڈیٹ ہو گئی ہے۔",
+    "validationError": "توثیق میں خرابی",
+    "nameRequired": "نام خالی نہیں ہو سکتا۔",
+    "jobTitleRequired": "کام کا عنوان درکار ہے۔",
+    "jobSaved": "کام محفوظ ہو گیا ہے۔",
+    "cannotRemoveDoor": "ہٹایا نہیں جا سکتا",
+    "atLeastOneDoor": "کام میں کم از کم ایک دروازہ ہونا ضروری ہے۔"
+  }
+}
